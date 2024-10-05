@@ -1,0 +1,34 @@
+.obox{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(food.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+}
+#Restaurant{
+    color: white;
+    font-size: 110px;
+    text-align: center;
+    padding-top: 10px;
+}
+#Register,#Login{
+    width: 200px;
+    height: 50px;
+    background-color:white;
+
+}
+#Register{
+    margin-left: 560px;
+}
+#Register a,#Login a{
+    color: rgb(16, 8, 8);
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#Register:hover{
+    background-color: antiquewhite;
+}
+#Login:hover{
+    background-color: antiquewhite;
+}
